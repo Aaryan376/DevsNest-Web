@@ -1,0 +1,52 @@
+h1{
+    color:#fff;
+}
+
+h2{
+    font-weight: 700;
+    font-size: x-large;
+}
+.top{
+    padding:2%;
+    margin: 10px;
+    border-radius:3% 3% 3% 3%;
+    background-color: rgb(32, 29, 29);
+}
+.top-para{
+    color:#fff;
+}
+.para1{
+    font-size: 18px;
+    color:#fff;
+}
+#para{
+    padding-top: 10px;
+}
+.icons{
+    padding-right: 15px;
+}
+.navbar-brand{
+    font-size:3rem;
+}
+.navbar-brand small{
+    display: block;
+    font-size: 18px;
+}
+.middle{
+    background-color: #f8d2e4;
+    padding:20px;
+    padding-bottom:30px;
+    margin:10px;
+    border-radius:2%;
+}
+span{
+    display: block;
+}
+.main{
+    font-weight: bold;
+}
+.end-list {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+  }
