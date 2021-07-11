@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin-top: 50vh;
+}
+
+.btn{
+    background: transparent;
+    border: 1px solid rgba(129, 186, 233, 0.822);
+    border-radius: 5%;
+}
+.btn:hover{
+    color:white;
+    background-color: rgba(129, 221, 233, 0.822);
+    cursor: pointer;
+}
